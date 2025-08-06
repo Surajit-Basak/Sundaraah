@@ -1,4 +1,3 @@
-
 import { notFound } from "next/navigation";
 import { getProductBySlug } from "@/lib/data";
 import ProductDetailPageClient from "@/components/product-detail-page";
