@@ -1,4 +1,3 @@
-
 'use server';
 
 import type { Product, BlogPost, TeamMember, Order, OrderWithItems, Category, ProductReview, Banner, UserProfile, Settings, PageContent, Collection, CartItem, FullOrderForEmail, Media, PageSeo, Testimonial, EmailTemplate, WishlistItem } from "@/types";
